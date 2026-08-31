@@ -29,3 +29,6 @@
 </p>
 
 *** 
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=lore-camisx&color=fb6f92&style=plastic&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
+
+*** 
