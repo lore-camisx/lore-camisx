@@ -21,3 +21,11 @@
 </div>
 
 ***
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yzdnku5cjbdpvuovkyc7acciti&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yzdnku5cjbdpvuovkyc7acciti&cover_image=true&theme=spotify-embed&show_offline=true&background_color=838a90&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=d7b8c7&bar_color_cover=false">
+  </a>
+</p>
+
+*** 
