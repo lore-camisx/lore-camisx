@@ -32,3 +32,14 @@
 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=lore-camisx&color=fb6f92&style=plastic&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
 
 *** 
+
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lore-camisx/lore-camisx/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lore-camisx/lore-camisx/output/pacman-contribution-graph.svg">
+    <img alt="PAC-MAN contribution graph" src="https://raw.githubusercontent.com/lore-camisx/lore-camisx/output/pacman-contribution-graph.svg">
+</picture>
+
+***
